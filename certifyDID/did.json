@@ -6,7 +6,7 @@
   "id": "did:web:Chithara27.github.io:myfiles:certifyDID",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkvt8x2M8KpEXGExHKJRMFyps9zLk3ZeWWvBwNspmFeMVE",
+      "publicKeyMultibase": "z6MkrX8sbDXWQuaDkrK1T2WRXWJDPkK6nmAfVmbQuiGGLyVG",
       "controller": "did:web:Chithara27.github.io:myfiles:certifyDID",
       "id": "did:web:Chithara27.github.io:myfiles:certifyDID#key-0",
       "type": "Ed25519VerificationKey2020",
