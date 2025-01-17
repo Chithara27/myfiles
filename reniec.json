@@ -7,11 +7,13 @@
     "SchoolCredential": {
       "@id": "https://Chithara27.github.io/myfiles/reniec.json#ReniecCredential"
     },
-    "student_id": "schema:text",
-    "student_name": "schema:name",
-    "dob": "schema:birthDate",
+    "firstName": "schema:name",
+    "firstLastName": "schema:name",
+	  "secondLastName": "schema:name",
+    "dateOfBirth": "schema:birthDate",
     "gender": "schema:gender",
-    "parent_or_guardian": "schema:parent",
-    "contact": "schema:telephone"
+    "maritalStatus": "schema:Text",
+    "face": "schema:Text",
+    "id": "schema:Text"
   }
 }
