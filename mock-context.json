@@ -13,10 +13,10 @@
 		"dateOfBirth": "schema:birthDate",
 		"gender": "schema:gender",
 		"region": "schema:Text",
-    "province": "schema:Text",
-    "UIN": "schema:Text",
-    "VID": "schema:Text",
-    "postalCode": "schema:Text",
+		"province": "schema:Text",
+		"UIN": "schema:Text",
+		"VID": "schema:Text",
+		"postalCode": "schema:Text",
 		"face": "schema:Text",
 		"id": "schema:Text"
 	}
