@@ -4,7 +4,7 @@
 		"@protected": true,
 		"type": "@type",
 		"schema": "https://schema.org/",
-		"SchoolCredential": {
+		"MockIdentityCredential": {
 			"@id": "https://Chithara27.github.io/myfiles/mock-context.json#MockIdentityCredential"
 		},
 		"fullName": "schema:name",
