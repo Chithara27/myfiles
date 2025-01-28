@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "MockIdentityCredential": {
+      "@id": "https://Chithara27.github.io/myfiles/mock.json#MockIdentityCredential"
+    },
+    "fullName": "schema:name",
+    "phoneNumber": "schema:telephone",
+    "dateOfBirth": "schema:birthDate",
+    "gender": "schema:gender",
+    "region": "schema:addressRegion",
+    "address": "schema:address",
+    "emailId": "schema:email",
+    "UIN": "schema:Text",
+    "face": "schema:Text",
+  }
+}
