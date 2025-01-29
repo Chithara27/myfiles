@@ -8,7 +8,7 @@
       "@id": "https://Chithara27.github.io/myfiles/mock.json#MockIdentityCredential"
     },
     "fullName": "schema:name",
-    "phoneNumber": "schema:telephone",
+    "phone": "schema:telephone",
     "dateOfBirth": "schema:birthDate",
     "gender": "schema:gender",
     "region": "schema:addressRegion",
